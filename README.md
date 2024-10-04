@@ -1,6 +1,6 @@
 </head>
 <body>
-    <h1>👋 Olá, sou Thiago Nóbrega!</h1>
+    <h1>👋 Olá, sou Thiago Nobrega!</h1>
     <h2 class="section-title">🚀 Entusiasta de Tecnologia, Automação e Dados</h2>
     <p>Eu sou um profissional dedicado e apaixonado por resolver problemas utilizando dados e tecnologia. Com experiência sólida em <span class="highlight">automação industrial</span> e uma jornada empreendedora que me trouxe valiosas habilidades em <span class="highlight">relacionamento com clientes</span>, <span class="highlight">fornecedores</span> e <span class="highlight">otimização de processos</span>, estou sempre em busca de desafios que me permitam crescer profissionalmente e aplicar soluções inovadoras.</p>
     <h2 class="section-title">🎯 Áreas de Interesse</h2>
